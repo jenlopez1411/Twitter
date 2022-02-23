@@ -1,4 +1,3 @@
-![giphy](https://user-images.githubusercontent.com/57370380/155278244-f1469d59-f980-4e7a-bd38-a321ab47afe2.gif)
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
